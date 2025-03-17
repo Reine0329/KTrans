@@ -6,9 +6,11 @@
 KTrans is a Kotlin-based application for translating text using the Baidu Translate API.
 
 ## Features
-- Supports Chinese-English translation
+- Supports translation between multiple languages
 - Supports batch text translation
-- Simple and easy-to-use command-line interface
+- Allows multi-line text input
+- Provides a user-friendly interactive interface
+- Offers partial or full text copy functionality
 
 ## Usage
 
